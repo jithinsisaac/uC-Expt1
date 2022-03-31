@@ -17,6 +17,7 @@ To perform addition & subtraction of two 8 bit numbers using Internal RAM Regist
 - To use the Internal RAMs Register banks
 - To learn about the addition & subtraction assembly instructions
 - To perform the above arithmetic operations & simulate the program
+- To understand Carry & Auxillary Carry obtanined as a result of the arithmetic operations
 
 ### Instructions
 

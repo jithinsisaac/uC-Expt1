@@ -21,7 +21,7 @@ To perform addition & substraction of two 8 bit numbers using Internal RAM Regis
 
 ### Instructions
 
-1. Read about Internal RAM of 8051 from 8051-Kenneth Ayala book
+1. Read about Internal RAM of 8051 (Kenneth Ayala/ Mazidi)
 2. Use the Atmel 8051 Instruction sheet document to learn about the arithmetic instructions
 
 ### Final list of Deliverables for Expt 1

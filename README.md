@@ -6,7 +6,7 @@ Course Coordinator: Mr. Jithin Isaac
 ### Laboratory Experiment No. 1
  
 ### Objective  
-To perform addition & substraction of two 8 bit numbers using Internal RAM Register bank
+To perform addition & subtraction of two 8 bit numbers using Internal RAM Register bank
  
 ### Tools used  
 - Software: 
@@ -15,7 +15,7 @@ To perform addition & substraction of two 8 bit numbers using Internal RAM Regis
 ### Experiment Outcome
 - To learn about Internal RAM of 8051
 - To use the Internal RAM Register banks
-- To learn about the addition & substraction assembly instructions
+- To learn about the addition & subtraction assembly instructions
 - To perform the above arithmetic operations & simulate the program
 - To understand Carry & Auxillary Carry obtanined as a result of the arithmetic operations
 
@@ -28,7 +28,7 @@ To perform addition & substraction of two 8 bit numbers using Internal RAM Regis
 
 **Screenshots of:**
 - Addition operation
-- Substraction operation
+- Subtraction operation
   - Using Internal RAM
 
 `Please add .asm files of all the codes executed, inside the experiment repository`
